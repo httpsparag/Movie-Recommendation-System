@@ -33,7 +33,7 @@ This project aims to build a music recommendation system that suggests personali
   - `scikit-learn` for machine learning algorithms
   - `matplotlib` for data visualization
   - `Streamlit` for the web interface
-  - `TensorFlow/Keras` (optional for deep learning models)
+  - `Jupyter Notebook` for model experimentation and testing
 - **Dataset**: (Include dataset details like source or how to generate)
 
 ## Installation
