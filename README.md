@@ -25,6 +25,16 @@ This project aims to build a music recommendation system that suggests personali
 - **Interactive Web Interface**: Streamlit app for easy interaction with the recommendation system.
 - **Personalized Experience**: Users can get tailored song recommendations directly from the web interface.
 
+  ## Samples:
+
+  1.
+
+  ![Screenshot 2024-12-24 235751](https://github.com/user-attachments/assets/71beeacf-c590-4ed3-aa87-6d1e0a6b5cc0)
+
+2.
+![Screenshot 2024-12-24 235849](https://github.com/user-attachments/assets/f1806ffb-3434-4941-afd9-fa958b28ec5d)
+
+
 ## Tech Stack
 - **Programming Language**: Python
 - **Libraries & Frameworks**:
