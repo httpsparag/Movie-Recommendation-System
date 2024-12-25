@@ -1,7 +1,7 @@
 # Movie-Recommendation-System
 
 
-# Music Recommendation System with Streamlit
+
 
 A machine learning-based music recommendation system that provides personalized track suggestions to users based on their listening history and preferences. The system is built using a recommendation model and integrated with Streamlit for a web-based interface.
 
